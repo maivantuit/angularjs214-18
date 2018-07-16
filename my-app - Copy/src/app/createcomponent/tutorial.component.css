@@ -1,0 +1,17 @@
+h4{
+    color: blueviolet;
+}
+h2{
+    color:yellowgreen;
+}
+/* Lession 8: Binding class and style element  */
+.isRed{
+    color: red;
+}
+/* Lession 12: Attribute directives */
+.classOne{
+    color: blueviolet;
+}
+.classTwo{
+    background:yellowgreen; 
+}
